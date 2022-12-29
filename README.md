@@ -1,6 +1,5 @@
-This repository is the code sample for the Tech Artifacts Blog - https://techartifacts.com/build-and-deploy-net-core-applications-using-docker-containers/
 
-"Build and Deploy .NET Core applications using Docker Containers"
+# [Build and Deploy .NET Core applications using Docker Containers](https://techartifacts.com/build-and-deploy-net-core-applications-using-docker-containers/)
 
 To clone and run the code from this repository, you will need to follow these steps:
 
@@ -34,3 +33,5 @@ dotnet run
 ```
 
 This will start the application and you should be able to access it in your web browser at http://localhost:5011 (or a different port if specified in the application's configuration).
+
+To view such more interesting blogs, please visit [Tech Artifacts](https://techartifacts.com/)
